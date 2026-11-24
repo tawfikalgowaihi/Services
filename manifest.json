@@ -1,0 +1,18 @@
+{
+  "name": "توفيق الجويحي",
+  "short_name": "توفيق الجويحي",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#f5b942",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/gb6V2Kkr/t-a-f-00720261016-101616-copy-320x320.jpg",
+      "sizes": "320x320",
+      "type": "image/jpeg"
+    }
+  ]
+}
