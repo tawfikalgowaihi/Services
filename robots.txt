@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tawfikalgowaihi.github.io/Services/sitemap.xml
